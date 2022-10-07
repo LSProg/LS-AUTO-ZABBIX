@@ -2,7 +2,7 @@
 Script d'automatisation de l'installation d'un serveur zabbix sur une distribution Debian 11
 ## Introduction  
 Bonjour est bienvenue sur mon projet LS-AUTO-ZABBIX.
-Je suis actuellement étudiant en alternance pour un cursus de reponsable en ingénieurie système et réseaux.
+Je suis actuellement étudiant en alternance pour un cursus de responsable en ingénierie système et réseaux.
 Ce projet fait partie de mon projet de fin d'étude.
 Il permet d'automatiser le déploiement d'un serveur zabbix sur une distribution Debian 11.
 Avant de commencer, je vous invite à consulter la Licence ci-dessous
